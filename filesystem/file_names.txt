@@ -1,0 +1,26 @@
+//Linux
+BaseFileSystem.cpp
+characterset.cpp
+crtstuff.c
+dbg.cpp
+FileSystem_Stdio.cpp
+initfini.c
+interface.cpp
+linux_support.cpp
+lstat.c
+mknod.c
+pathmatch.cpp
+stat.c
+utlsymbol.cpp
+//Mac OS
+public/UtlMemory.h
+public/UtlVector.h
+public/utlsymbol.h
+filesystem/FileSystem_Stdio/BaseFileSystem.h
+public/utlrbtree.h
+filesystem/FileSystem_Stdio/BaseFileSystem.cpp
+filesystem/FileSystem_Stdio/FileSystem_Stdio.cpp
+filesystem/FileSystem_Stdio/linux_support.cpp
+public/characterset.cpp
+public/interface.cpp
+public/utlsymbol.cpp
